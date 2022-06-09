@@ -1,6 +1,8 @@
 # API-JWT
 
- npm install
- 
+# Install dependencies
+npm install
+# Run app
+npm start
  
  
